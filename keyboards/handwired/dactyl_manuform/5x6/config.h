@@ -48,3 +48,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define USE_I2C
 
 #define MASTER_LEFT
+
+#define LED_CAPS_LOCK_PIN D5
+#define LED_PIN_ON_STATE 1
