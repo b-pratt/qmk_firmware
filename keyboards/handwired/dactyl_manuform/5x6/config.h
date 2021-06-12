@@ -45,9 +45,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* number of backlight levels */
 // #define BACKLIGHT_LEVELS 3
 
-#define USE_I2C
+//#define USE_I2C
 
-#define MASTER_LEFT
+//#define MASTER_LEFT
 
-#define LED_CAPS_LOCK_PIN D5
-#define LED_PIN_ON_STATE 1
+// #define LED_CAPS_LOCK_PIN D5
+// #define LED_PIN_ON_STATE 1
